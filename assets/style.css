@@ -44,7 +44,7 @@ footer {
 
 /* Set background image for each page */
 body.home {
-  background-image: url("../images/home-background.jpg");
+  background-image: url("../images/home-backg_round.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
